@@ -1,1 +1,0 @@
-# vod-dy-go-sdk
